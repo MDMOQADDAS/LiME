@@ -6,6 +6,11 @@ A Loadable Kernel Module (LKM) which allows for volatile memory acquisition from
  * [Usage](#usage)
   * [Examples](#example)
  * [Presentation](#present)
+ * Getting Started(#gettingstart)
+ 
+## Getting Started <a name="gettingstart"/>
+* `sudo yum install git`
+* `sudo yum install make g++`
  
 ## Features <a name="features"/>
 * Full Android memory acquisition
